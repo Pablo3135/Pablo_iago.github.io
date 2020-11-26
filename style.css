@@ -1,11 +1,17 @@
-body{
+body {
     text-align: center;
-    background-color:rgb(10, 9, 9);
-    color:rgb(177, 22, 22);
+    background-color:aquamarine;
 }
-ul{
+ul {
     display: inline;
 }
-ol{
+ol {
     display: inline;
+}
+#titulo {
+    font-size: 40px;
+}
+#foto {
+    height: 450px;
+    width: 500px;
 }
