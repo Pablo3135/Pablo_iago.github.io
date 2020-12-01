@@ -1,20 +1,15 @@
-body {
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#name {
+    background-color: red;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 5px;
     text-align: center;
-    background-color:aquamarine;
 }
-ul {
-    display: inline;
-}
-ol {
-    display: inline;
-}
-#titulo {
-    font-size: 40px;
-}
-#foto {
-    height: 450px;
-    width: 500px;
-}
-#Nome {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+img {
+    width: 300px;
 }
